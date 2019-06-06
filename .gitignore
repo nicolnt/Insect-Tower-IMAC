@@ -1,0 +1,10 @@
+/place-map/prog
+*.swp
+/load-ppm/prog
+/build
+/bin
+/.vscode
+/tags
+prog
+.directory
+tags
